@@ -1,0 +1,5 @@
+{
+  "name": "L&D FuturePlatform",
+  "description": "A modern, futuristic learning and development web application featuring MBTI and TKI assessments, and an AI chatbot for personality psychology and career guidance. Built with React, TypeScript, Tailwind CSS, and Gemini API.",
+  "requestFramePermissions": []
+}
